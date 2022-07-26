@@ -1,0 +1,9 @@
+package com.hexa.demo.Models;
+
+public class HelloWorldBeans {
+	String message;
+	public HelloWorldBeans(String message) {
+		this.message ="Hello World Benas";
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.hexa.demo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DemoRestWebservicesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DemoRestWebservicesApplication.class, args);
+	}
+
+}

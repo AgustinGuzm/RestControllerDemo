@@ -1,0 +1,11 @@
+package com.hexa.HelloworService;
+
+public class helloworldService {
+
+	public static String gettexthelloWorld() {
+
+		return "Hello World";
+	}
+	
+
+}

@@ -1,0 +1,20 @@
+package com.hexa.demo.HelloWorldService;
+
+import org.springframework.stereotype.Service;
+
+
+
+@Service
+public class helloworldService {
+
+	public static String gettexthelloWorld() {
+
+		return "Hello World";
+	}
+	
+	public static String gettexthelloWorldbean() {
+		return null;
+	}
+	
+
+}

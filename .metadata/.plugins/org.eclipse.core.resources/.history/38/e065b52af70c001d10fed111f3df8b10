@@ -1,0 +1,5 @@
+package com.hexa.demo.Models;
+
+public class HelloWorldBeans {
+
+}
